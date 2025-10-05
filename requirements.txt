@@ -1,0 +1,10 @@
+pandas
+numpy
+ipykernel
+scikit-learn
+matplotlib
+xgboost
+seaborn
+statsmodels
+mlflow
+dotenv
