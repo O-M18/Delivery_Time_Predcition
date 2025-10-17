@@ -15,7 +15,9 @@ The Delivery Time Prediction App is a machine learning-powered Streamlit applica
 
 * Order category and location coordinates
 
-* Order and pickup times
+* Order and pickup times.
+
+* 
 The app calculates key metrics like distance between store and drop location and time to pickup, then uses a trained XGBoost model to predict delivery time in minutes, hours, or days. Users get real-time predictions displayed in modern, interactive mini-cards and an animated pop-out card.
 ---
 ### Importance of the Project
